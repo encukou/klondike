@@ -36,3 +36,9 @@ A spouští se pomocí:
 Doplň funkce `udelej_tah` a `hrac_vyhral` podle
 [materiálů](https://naucse.python.cz/2020/brno-podzim-pondeli/klondike/game/)
 (podrobná pravidla jsou na konci stránky).
+
+
+## Poděkování
+
+Obrázky karet jsou z [Board Game Pack](https://kenney.nl/assets/boardgame-pack)
+studia [kenney.nl](https://kenney.nl).
