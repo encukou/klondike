@@ -166,7 +166,7 @@ def handle_press_queue():
         press_queue.clear()
 
         try:
-            result = udelej_tah(game, source, destination)
+            result = udelej_tah(game, source + destination)
         except ValueError as e:
             # Print *just* the error message
             msg = f'{source}→{destination}: {e}'
